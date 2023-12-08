@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap);
+
+* {
+	font-family: 'BIZ UDPGothic', sans-serif;
+}
+
+h1 {
+font-family: 'Mochiy Pop One', sans-serif;
+}
